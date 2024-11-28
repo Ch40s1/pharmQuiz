@@ -1,0 +1,1933 @@
+[
+  {
+      "id": 1,
+      "generic": "benazepril",
+      "brand": "Lotensin",
+      "class": "Angiotensin-Converting Enzyme (ACE) Inhibitor",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Nephropathy"
+      ]
+  },
+  {
+      "id": 2,
+      "generic": "lisinopril",
+      "brand": "Prinivil | Zestril",
+      "class": "Angiotensin-Converting Enzyme (ACE) Inhibitor",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Nephropathy"
+      ]
+  },
+  {
+      "id": 3,
+      "generic": "lisinopril + hydrochlorothiazide",
+      "brand": "Prinzide | Zestoretic",
+      "class": "Angiotensin-Converting Enzyme (ACE) Inhibitor + Diuretic",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Nephropathy"
+      ]
+  },
+  {
+      "id": 4,
+      "generic": "olmesartan",
+      "brand": "Benicar",
+      "class": "Angiotensin-II Receptor Blocker (ARB)",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Nephropathy"
+      ]
+  },
+  {
+      "id": 5,
+      "generic": "valsartan",
+      "brand": "Diovan",
+      "class": "Angiotensin-II Receptor Blocker (ARB)",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Nephropathy"
+      ]
+  },
+  {
+      "id": 6,
+      "generic": "irbesartan",
+      "brand": "Avapro",
+      "class": "Angiotensin-II Receptor Blocker (ARB)",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Nephropathy"
+      ]
+  },
+  {
+      "id": 7,
+      "generic": "losartan",
+      "brand": "Cozaar",
+      "class": "Angiotensin-II Receptor Blocker (ARB)",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Nephropathy"
+      ]
+  },
+  {
+      "id": 8,
+      "generic": "losartan + hydrochlorothiazide",
+      "brand": "Hyzaar",
+      "class": "Angiotensin-II Receptor Blocker (ARB) + Diuretic",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Nephropathy"
+      ]
+  },
+  {
+      "id": 9,
+      "generic": "furosemide",
+      "brand": "Lasix",
+      "class": "Diuretic",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Edema"
+      ]
+  },
+  {
+      "id": 10,
+      "generic": "spironolactone",
+      "brand": "Aldactone",
+      "class": "Diuretic",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Edema"
+      ]
+  },
+  {
+      "id": 11,
+      "generic": "chlorthalidone",
+      "brand": "Thalitone",
+      "class": "Diuretic",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Edema"
+      ]
+  },
+  {
+      "id": 12,
+      "generic": "hydrochlorothiazide",
+      "brand": "Microzide",
+      "class": "Diuretic",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Edema"
+      ]
+  },
+  {
+      "id": 13,
+      "generic": "triamterene + hydrochlorothiazide",
+      "brand": "Maxzide",
+      "class": "Diuretic + Diuretic",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Edema"
+      ]
+  },
+  {
+      "id": 14,
+      "generic": "metoprolol",
+      "brand": "Lopressor | Toprol XL",
+      "class": "Beta-Blocker",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Angina",
+          "Arrhythmias"
+      ]
+  },
+  {
+      "id": 15,
+      "generic": "atenolol",
+      "brand": "Tenormin",
+      "class": "Beta-Blocker",
+      "indication": [
+          "Hypertension",
+          "Heart Failure",
+          "Angina",
+          "Arrhythmias"
+      ]
+  },
+  {
+      "id": 16,
+      "generic": "propranolol",
+      "brand": "Inderal",
+      "class": "Beta-Blocker",
+      "indication": [
+          "Hypertension",
+          "Angina",
+          "Arrhythmias",
+          "Anxiety"
+      ]
+  },
+  {
+      "id": 17,
+      "generic": "carvedilol",
+      "brand": "Coreg",
+      "class": "Beta-Blocker",
+      "indication": [
+          "Hypertension",
+          "Angina",
+          "Arrhythmias"
+      ]
+  },
+  {
+      "id": 18,
+      "generic": "diltiazem",
+      "brand": "Cardizem",
+      "class": "Calcium Channel Blocker (CCB)",
+      "indication": [
+          "Hypertension",
+          "Angina",
+          "Arrhythmias"
+      ]
+  },
+  {
+      "id": 19,
+      "generic": "verapamil",
+      "brand": "Calan",
+      "class": "Calcium Channel Blocker (CCB)",
+      "indication": [
+          "Hypertension",
+          "Angina",
+          "Arrhythmias"
+      ]
+  },
+  {
+      "id": 20,
+      "generic": "amlodipine",
+      "brand": "Norvasc",
+      "class": "Calcium Channel Blocker (CCB)",
+      "indication": [
+          "Hypertension",
+          "Angina"
+      ]
+  },
+  {
+      "id": 21,
+      "generic": "nifedipine",
+      "brand": "Procardia",
+      "class": "Calcium Channel Blocker (CCB)",
+      "indication": [
+          "Hypertension",
+          "Angina"
+      ]
+  },
+  {
+      "id": 22,
+      "generic": "doxazosin",
+      "brand": "Cardura",
+      "class": "Alpha-1 Antagonist",
+      "indication": [
+          "Hypertension",
+          "Benign Prostatic Hyperplasia"
+      ]
+  },
+  {
+      "id": 23,
+      "generic": "prazosin",
+      "brand": "Minipress",
+      "class": "Alpha-1 Antagonist",
+      "indication": [
+          "Hypertension",
+          "Benign Prostatic Hyperplasia"
+      ]
+  },
+  {
+      "id": 24,
+      "generic": "clonidine",
+      "brand": "Catapres",
+      "class": "Alpha-2 Agonist",
+      "indication": [
+          "Hypertension",
+          "ADHD"
+      ]
+  },
+  {
+      "id": 25,
+      "generic": "hydralazine",
+      "brand": "Apresoline",
+      "class": "Vasodilator",
+      "indication": [
+          "Hypertension",
+          "Heart Failure"
+      ]
+  },
+  {
+      "id": 26,
+      "generic": "digoxin",
+      "brand": "Lanoxin",
+      "class": "Cardiac Glycoside",
+      "indication": [
+          "Arrhythmias",
+          "Heart Failure"
+      ]
+  },
+  {
+      "id": 27,
+      "generic": "amiodarone",
+      "brand": "Cordarone",
+      "class": "Antiarrhythmic",
+      "indication": [
+          "Arrhythmias"
+      ]
+  },
+  {
+      "id": 28,
+      "generic": "flecainide",
+      "brand": "Tambocor",
+      "class": "Antiarrhythmic",
+      "indication": [
+          "Arrhythmias"
+      ]
+  },
+  {
+      "id": 29,
+      "generic": "nitroglycerin",
+      "brand": "Nitrostat",
+      "class": "Nitrate",
+      "indication": [
+          "Angina"
+      ]
+  },
+  {
+      "id": 30,
+      "generic": "isosorbide",
+      "brand": "Imdur",
+      "class": "Nitrate",
+      "indication": [
+          "Angina"
+      ]
+  },
+  {
+      "id": 31,
+      "generic": "apixaban",
+      "brand": "Eliquis",
+      "class": "Anticoagulant",
+      "indication": [
+          "Thromboembolism Treatment/Prophylaxis"
+      ]
+  },
+  {
+      "id": 32,
+      "generic": "rivaroxaban",
+      "brand": "Xarelto",
+      "class": "Anticoagulant",
+      "indication": [
+          "Thromboembolism Treatment/Prophylaxis"
+      ]
+  },
+  {
+      "id": 33,
+      "generic": "warfarin",
+      "brand": "Jantoven, Coumadin",
+      "class": "Anticoagulant",
+      "indication": [
+          "Thromboembolism Treatment/Prophylaxis"
+      ]
+  },
+  {
+      "id": 34,
+      "generic": "clopidogrel",
+      "brand": "Plavix",
+      "class": "Platelet Aggregation Inhibitor",
+      "indication": [
+          "Thromboembolism Treatment/Prophylaxis"
+      ]
+  },
+  {
+      "id": 35,
+      "generic": "aspirin",
+      "brand": "Ecotrin",
+      "class": "Platelet Aggregation Inhibitor",
+      "indication": [
+          "Thromboembolism Treatment/Prophylaxis"
+      ]
+  },
+  {
+      "id": 36,
+      "generic": "atorvastatin",
+      "brand": "Lipitor",
+      "class": "HMG-CoA Reductase Inhibitor (Statin)",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 37,
+      "generic": "rosuvastatin",
+      "brand": "Crestor",
+      "class": "HMG-CoA Reductase Inhibitor (Statin)",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 38,
+      "generic": "simvastatin",
+      "brand": "Zocor",
+      "class": "HMG-CoA Reductase Inhibitor (Statin)",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 39,
+      "generic": "lovastatin",
+      "brand": "Mevacor",
+      "class": "HMG-CoA Reductase Inhibitor (Statin)",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 40,
+      "generic": "pravastatin",
+      "brand": "Pravachol",
+      "class": "HMG-CoA Reductase Inhibitor (Statin)",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 41,
+      "generic": "gemfibrozil",
+      "brand": "Lopid",
+      "class": "Fibrate",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 42,
+      "generic": "fenofibrate",
+      "brand": "Tricor",
+      "class": "Fibrate",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 43,
+      "generic": "ezetimibe",
+      "brand": "Zetia",
+      "class": "Cholesterol Absorption Inhibitor",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 44,
+      "generic": "omega-3-acid ethyl esters",
+      "brand": "Lovaza",
+      "class": "Omega-3 Fatty Acid",
+      "indication": [
+          "Dyslipidemia"
+      ]
+  },
+  {
+      "id": 45,
+      "generic": "brimonidine",
+      "brand": "Lumify",
+      "class": "Alpha-2 Agonist",
+      "indication": [
+          "Ocular Hypertension",
+          "Glaucoma"
+      ]
+  },
+  {
+      "id": 46,
+      "generic": "timolol",
+      "brand": "Betimol",
+      "class": "Beta-Blocker",
+      "indication": [
+          "Ocular Hypertension",
+          "Glaucoma"
+      ]
+  },
+  {
+      "id": 47,
+      "generic": "latanoprost",
+      "brand": "Xalatan",
+      "class": "Prostaglandin Analog",
+      "indication": [
+          "Ocular Hypertension",
+          "Glaucoma"
+      ]
+  },
+  {
+      "id": 48,
+      "generic": "bimatoprost",
+      "brand": "Lumigan",
+      "class": "Prostaglandin Analog",
+      "indication": [
+          "Ocular Hypertension",
+          "Glaucoma"
+      ]
+  },
+  {
+      "id": 49,
+      "generic": "sertraline",
+      "brand": "Zoloft",
+      "class": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "indication": [
+          "Depression",
+          "Anxiety"
+      ]
+  },
+  {
+      "id": 50,
+      "generic": "fluoxetine",
+      "brand": "Prozac",
+      "class": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "indication": [
+          "Depression",
+          "Anxiety"
+      ]
+  },
+  {
+      "id": 51,
+      "generic": "paroxetine",
+      "brand": "Paxil",
+      "class": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "indication": [
+          "Depression",
+          "Anxiety"
+      ]
+  },
+  {
+      "id": 52,
+      "generic": "citalopram",
+      "brand": "Celexa",
+      "class": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "indication": [
+          "Depression",
+          "Anxiety"
+      ]
+  },
+  {
+      "id": 53,
+      "generic": "escitalopram",
+      "brand": "Lexapro",
+      "class": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "indication": [
+          "Depression",
+          "Anxiety"
+      ]
+  },
+  {
+      "id": 54,
+      "generic": "venlafaxine",
+      "brand": "Effexor",
+      "class": "Serotonin Norepinephrine Reuptake Inhibitor (SNRI)",
+      "indication": [
+          "Depression",
+          "Anxiety",
+          "Neuropathy"
+      ]
+  },
+  {
+      "id": 55,
+      "generic": "desvenlafaxine",
+      "brand": "Pristiq",
+      "class": "Serotonin Norepinephrine Reuptake Inhibitor (SNRI)",
+      "indication": [
+          "Depression",
+          "Anxiety",
+          "Neuropathy"
+      ]
+  },
+  {
+      "id": 56,
+      "generic": "duloxetine",
+      "brand": "Cymbalta",
+      "class": "Serotonin Norepinephrine Reuptake Inhibitor (SNRI)",
+      "indication": [
+          "Depression",
+          "Anxiety",
+          "Neuropathy",
+          "Fibromyalgia"
+      ]
+  },
+  {
+      "id": 57,
+      "generic": "amitriptyline",
+      "brand": "Elavil",
+      "class": "Tricyclic Antidepressant (TCA)",
+      "indication": [
+          "Depression",
+          "Anxiety",
+          "Neuropathy",
+          "Fibromyalgia"
+      ]
+  },
+  {
+      "id": 58,
+      "generic": "nortriptyline",
+      "brand": "Pamelor",
+      "class": "Tricyclic Antidepressant (TCA)",
+      "indication": [
+          "Depression",
+          "Anxiety",
+          "Neuropathy",
+          "Fibromyalgia"
+      ]
+  },
+  {
+      "id": 59,
+      "generic": "mirtazapine",
+      "brand": "Remeron",
+      "class": "Tetracyclic Antidepressant",
+      "indication": [
+          "Depression"
+      ]
+  },
+  {
+      "id": 60,
+      "generic": "trazodone",
+      "brand": "Desyrel",
+      "class": "Serotonin Receptor Antagonist and Reuptake Inhibitor (SARI)",
+      "indication": [
+          "Depression",
+          "Insomnia"
+      ]
+  },
+  {
+      "id": 61,
+      "generic": "bupropion",
+      "brand": "Wellbutrin",
+      "class": "Norepinephrine and Dopamine Reuptake Inhibitor (NDRI)",
+      "indication": [
+          "Depression",
+          "Smoking Cessation"
+      ]
+  },
+  {
+      "id": 62,
+      "generic": "aripiprazole",
+      "brand": "Abilify",
+      "class": "Atypical Antipsychotic",
+      "indication": [
+          "Depression",
+          "Bipolar Disorder",
+          "Schizophrenia"
+      ]
+  },
+  {
+      "id": 63,
+      "generic": "olanzapine",
+      "brand": "Zyprexa",
+      "class": "Atypical Antipsychotic",
+      "indication": [
+          "Depression",
+          "Bipolar Disorder",
+          "Schizophrenia"
+      ]
+  },
+  {
+      "id": 64,
+      "generic": "quetiapine",
+      "brand": "Seroquel",
+      "class": "Atypical Antipsychotic",
+      "indication": [
+          "Depression",
+          "Bipolar Disorder",
+          "Schizophrenia"
+      ]
+  },
+  {
+      "id": 65,
+      "generic": "risperidone",
+      "brand": "Risperdal",
+      "class": "Atypical Antipsychotic",
+      "indication": [
+          "Bipolar Disorder",
+          "Schizophrenia"
+      ]
+  },
+  {
+      "id": 66,
+      "generic": "lithium",
+      "brand": "Lithobid",
+      "class": "Mood Stabilizer",
+      "indication": [
+          "Bipolar Disorder"
+      ]
+  },
+  {
+      "id": 67,
+      "generic": "lamotrigine",
+      "brand": "Lamictal",
+      "class": "Anticonvulsant",
+      "indication": [
+          "Bipolar Disorder",
+          "Seizures"
+      ]
+  },
+  {
+      "id": 68,
+      "generic": "divalproex",
+      "brand": "Depakote",
+      "class": "Anticonvulsant",
+      "indication": [
+          "Bipolar Disorder",
+          "Seizures",
+          "Migraine Prophylaxis"
+      ]
+  },
+  {
+      "id": 69,
+      "generic": "topiramate",
+      "brand": "Topamax",
+      "class": "Anticonvulsant",
+      "indication": [
+          "Bipolar Disorder",
+          "Seizures",
+          "Migraine Prophylaxis"
+      ]
+  },
+  {
+      "id": 70,
+      "generic": "carbamazepine",
+      "brand": "Tegretol",
+      "class": "Anticonvulsant",
+      "indication": [
+          "Bipolar Disorder",
+          "Seizures"
+      ]
+  },
+  {
+      "id": 71,
+      "generic": "oxcarbazepine",
+      "brand": "Trileptal",
+      "class": "Anticonvulsant",
+      "indication": [
+          "Seizures"
+      ]
+  },
+  {
+      "id": 72,
+      "generic": "levetiracetam",
+      "brand": "Keppra",
+      "class": "Anticonvulsant",
+      "indication": [
+          "Seizures"
+      ]
+  },
+  {
+      "id": 73,
+      "generic": "gabapentin",
+      "brand": "Neurontin",
+      "class": "Anticonvulsant",
+      "indication": [
+          "Seizures",
+          "Neuropathy",
+          "Fibromyalgia"
+      ]
+  },
+  {
+      "id": 74,
+      "generic": "pregabalin (C5)",
+      "brand": "Lyrica",
+      "class": "Anticonvulsant",
+      "indication": [
+          "Seizures",
+          "Neuropathy",
+          "Fibromyalgia"
+      ]
+  },
+  {
+      "id": 75,
+      "generic": "buspirone",
+      "brand": "Buspar",
+      "class": "Anxiolytic",
+      "indication": [
+          "Anxiety"
+      ]
+  },
+  {
+      "id": 76,
+      "generic": "alprazolam (C4)",
+      "brand": "Xanax",
+      "class": "Benzodiazepine",
+      "indication": [
+          "Anxiety"
+      ]
+  },
+  {
+      "id": 77,
+      "generic": "clonazepam (C4)",
+      "brand": "Klonopin",
+      "class": "Benzodiazepine",
+      "indication": [
+          "Anxiety",
+          "Seizures"
+      ]
+  },
+  {
+      "id": 78,
+      "generic": "lorazepam (C4)",
+      "brand": "Ativan",
+      "class": "Benzodiazepine",
+      "indication": [
+          "Anxiety",
+          "Seizures"
+      ]
+  },
+  {
+      "id": 79,
+      "generic": "diazepam (C4)",
+      "brand": "Valium",
+      "class": "Benzodiazepine",
+      "indication": [
+          "Anxiety",
+          "Seizures",
+          "Muscle Spasms"
+      ]
+  },
+  {
+      "id": 80,
+      "generic": "zolpidem (C4)",
+      "brand": "Ambien",
+      "class": "Sedative-Hypnotic",
+      "indication": [
+          "Insomnia"
+      ]
+  },
+  {
+      "id": 81,
+      "generic": "amphetamine + dextroamphetamine (C2)",
+      "brand": "Adderall",
+      "class": "Stimulant",
+      "indication": [
+          "ADHD",
+          "Narcolepsy"
+      ]
+  },
+  {
+      "id": 82,
+      "generic": "methylphenidate (C2)",
+      "brand": "Ritalin | Concerta",
+      "class": "Stimulant",
+      "indication": [
+          "ADHD",
+          "Narcolepsy"
+      ]
+  },
+  {
+      "id": 83,
+      "generic": "dexmethylphenidate (C2)",
+      "brand": "Focalin",
+      "class": "Stimulant",
+      "indication": [
+          "ADHD"
+      ]
+  },
+  {
+      "id": 84,
+      "generic": "lisdexamfetamine (C2)",
+      "brand": "Vyvanse",
+      "class": "Stimulant",
+      "indication": [
+          "ADHD",
+          "Binge Eating Disorder"
+      ]
+  },
+  {
+      "id": 85,
+      "generic": "baclofen",
+      "brand": "Gablofen",
+      "class": "Muscle Relaxant",
+      "indication": [
+          "Muscle Spasms & Pain"
+      ]
+  },
+  {
+      "id": 86,
+      "generic": "cyclobenzaprine",
+      "brand": "Flexeril",
+      "class": "Muscle Relaxant",
+      "indication": [
+          "Muscle Spasms & Pain"
+      ]
+  },
+  {
+      "id": 87,
+      "generic": "tizanidine",
+      "brand": "Zanaflex",
+      "class": "Muscle Relaxant",
+      "indication": [
+          "Muscle Spasms & Pain"
+      ]
+  },
+  {
+      "id": 88,
+      "generic": "methocarbamol",
+      "brand": "Robaxin",
+      "class": "Muscle Relaxant",
+      "indication": [
+          "Muscle Spasms & Pain"
+      ]
+  },
+  {
+      "id": 89,
+      "generic": "acetaminophen",
+      "brand": "Tylenol",
+      "class": "Analgesic",
+      "indication": [
+          "Pain",
+          "Fever"
+      ]
+  },
+  {
+      "id": 90,
+      "generic": "tramadol (C4)",
+      "brand": "Ultram",
+      "class": "Opioid Agonist",
+      "indication": [
+          "Pain"
+      ]
+  },
+  {
+      "id": 91,
+      "generic": "morphine (C2)",
+      "brand": "MS Contin",
+      "class": "Opioid Agonist",
+      "indication": [
+          "Pain"
+      ]
+  },
+  {
+      "id": 92,
+      "generic": "oxycodone (C2)",
+      "brand": "OxyContin",
+      "class": "Opioid Agonist",
+      "indication": [
+          "Pain"
+      ]
+  },
+  {
+      "id": 93,
+      "generic": "oxycodone + acetaminophen (C2)",
+      "brand": "Percocet",
+      "class": "Opioid Agonist + Analgesic",
+      "indication": [
+          "Pain"
+      ]
+  },
+  {
+      "id": 94,
+      "generic": "hydrocodone + acetaminophen (C2)",
+      "brand": "Norco",
+      "class": "Opioid Agonist + Analgesic",
+      "indication": [
+          "Pain"
+      ]
+  },
+  {
+      "id": 95,
+      "generic": "codeine + acetaminophen (C3)",
+      "brand": "Tylenol #3",
+      "class": "Opioid Agonist + Analgesic",
+      "indication": [
+          "Pain"
+      ]
+  },
+  {
+      "id": 96,
+      "generic": "buprenorphine + naloxone (C3)",
+      "brand": "Suboxone",
+      "class": "Opioid Agonist-Antagonist + Opioid Antagonist",
+      "indication": [
+          "Opioid Use Disorder"
+      ]
+  },
+  {
+      "id": 97,
+      "generic": "sumatriptan",
+      "brand": "Imitrex",
+      "class": "Serotonin Receptor Agonist",
+      "indication": [
+          "Migraines"
+      ]
+  },
+  {
+      "id": 98,
+      "generic": "rizatriptan",
+      "brand": "Maxalt",
+      "class": "Serotonin Receptor Agonist",
+      "indication": [
+          "Migraines"
+      ]
+  },
+  {
+      "id": 99,
+      "generic": "pramipexole",
+      "brand": "Mirapex",
+      "class": "Dopamine Receptor Agonist",
+      "indication": [
+          "Parkinson's Disease",
+          "Restless Leg Syndrome"
+      ]
+  },
+  {
+      "id": 100,
+      "generic": "ropinirole",
+      "brand": "Requip",
+      "class": "Dopamine Receptor Agonist",
+      "indication": [
+          "Parkinson's Disease",
+          "Restless Leg Syndrome"
+      ]
+  },
+  {
+      "id": 101,
+      "generic": "carbidopa + levodopa",
+      "brand": "Sinemet",
+      "class": "Decarboxylase Inhibitor + Dopamine Precursor",
+      "indication": [
+          "Parkinson's Disease"
+      ]
+  },
+  {
+      "id": 102,
+      "generic": "donepezil",
+      "brand": "Aricept",
+      "class": "Cholinesterase Inhibitor",
+      "indication": [
+          "Alzheimer's Disease"
+      ]
+  },
+  {
+      "id": 103,
+      "generic": "memantine",
+      "brand": "Namenda",
+      "class": "NMDA Antagonist",
+      "indication": [
+          "Alzheimer's Disease"
+      ]
+  },
+  {
+      "id": 104,
+      "generic": "omeprazole",
+      "brand": "Prilosec",
+      "class": "Proton Pump Inhibitor (PPI)",
+      "indication": [
+          "Gastroesophageal Reflux Disease"
+      ]
+  },
+  {
+      "id": 105,
+      "generic": "esomeprazole",
+      "brand": "Nexium",
+      "class": "Proton Pump Inhibitor (PPI)",
+      "indication": [
+          "Gastroesophageal Reflux Disease"
+      ]
+  },
+  {
+      "id": 106,
+      "generic": "pantoprazole",
+      "brand": "Protonix",
+      "class": "Proton Pump Inhibitor (PPI)",
+      "indication": [
+          "Gastroesophageal Reflux Disease"
+      ]
+  },
+  {
+      "id": 107,
+      "generic": "lansoprazole",
+      "brand": "Prevacid",
+      "class": "Proton Pump Inhibitor (PPI)",
+      "indication": [
+          "Gastroesophageal Reflux Disease"
+      ]
+  },
+  {
+      "id": 108,
+      "generic": "famotidine",
+      "brand": "Pepcid",
+      "class": "Histamine H2 Antagonist",
+      "indication": [
+          "Gastroesophageal Reflux Disease"
+      ]
+  },
+  {
+      "id": 109,
+      "generic": "meclizine",
+      "brand": "Antivert",
+      "class": "Histamine H1 Antagonist",
+      "indication": [
+          "Nausea",
+          "Vomiting",
+          "Vertigo"
+      ]
+  },
+  {
+      "id": 110,
+      "generic": "promethazine",
+      "brand": "Phenergan",
+      "class": "Histamine H1 Antagonist",
+      "indication": [
+          "Nausea",
+          "Vomiting",
+          "Allergies"
+      ]
+  },
+  {
+      "id": 111,
+      "generic": "metoclopramide",
+      "brand": "Reglan",
+      "class": "Dopamine Receptor Antagonist",
+      "indication": [
+          "Nausea",
+          "Vomiting",
+          "Gastroparesis"
+      ]
+  },
+  {
+      "id": 112,
+      "generic": "ondansetron",
+      "brand": "Zofran",
+      "class": "Serotonin Receptor Antagonist",
+      "indication": [
+          "Nausea",
+          "Vomiting"
+      ]
+  },
+  {
+      "id": 113,
+      "generic": "docusate + senna",
+      "brand": "Senna Plus",
+      "class": "Stool Softener + Laxative",
+      "indication": [
+          "Constipation"
+      ]
+  },
+  {
+      "id": 114,
+      "generic": "sucralfate",
+      "brand": "Carafate",
+      "class": "Sucrose Sulfate Complex",
+      "indication": [
+          "Ulcers"
+      ]
+  },
+  {
+      "id": 115,
+      "generic": "mesalamine",
+      "brand": "Pentasa",
+      "class": "Antiinflammatory",
+      "indication": [
+          "Ulcerative Colitis"
+      ]
+  },
+  {
+      "id": 116,
+      "generic": "dicyclomine",
+      "brand": "Bentyl",
+      "class": "Anticholinergic",
+      "indication": [
+          "Irritable Bowel Syndrome",
+          "Abdominal Pain"
+      ]
+  },
+  {
+      "id": 117,
+      "generic": "phentermine (C4)",
+      "brand": "Adipex-P",
+      "class": "Appetite Suppressant",
+      "indication": [
+          "Weight Loss"
+      ]
+  },
+  {
+      "id": 118,
+      "generic": "folic acid",
+      "brand": "Vitamin B9",
+      "class": "Supplement",
+      "indication": [
+          "Folic Acid Supplementation"
+      ]
+  },
+  {
+      "id": 119,
+      "generic": "ferrous sulfate",
+      "brand": "Iron",
+      "class": "Supplement",
+      "indication": [
+          "Iron Supplementation"
+      ]
+  },
+  {
+      "id": 120,
+      "generic": "potassium chloride",
+      "brand": "Klor-Con",
+      "class": "Supplement",
+      "indication": [
+          "Potassium Supplementation"
+      ]
+  },
+  {
+      "id": 121,
+      "generic": "cholecalciferol",
+      "brand": "Vitamin D3",
+      "class": "Supplement",
+      "indication": [
+          "Vitamin D Supplementation"
+      ]
+  },
+  {
+      "id": 122,
+      "generic": "ergocalciferol",
+      "brand": "Vitamin D2",
+      "class": "Supplement",
+      "indication": [
+          "Vitamin D Supplementation"
+      ]
+  },
+  {
+      "id": 123,
+      "generic": "cyanocobalamin",
+      "brand": "Vitamin B12",
+      "class": "Supplement",
+      "indication": [
+          "Vitamin B12 Supplementation"
+      ]
+  },
+  {
+      "id": 124,
+      "generic": "hydroxyzine",
+      "brand": "Vistaril | Atarax",
+      "class": "Histamine H1 Antagonist",
+      "indication": [
+          "Allergies",
+          "Anxiety",
+          "Nausea",
+          "Vomiting"
+      ]
+  },
+  {
+      "id": 125,
+      "generic": "cetirizine",
+      "brand": "Zyrtec",
+      "class": "Histamine H1 Antagonist",
+      "indication": [
+          "Allergies"
+      ]
+  },
+  {
+      "id": 126,
+      "generic": "loratadine",
+      "brand": "Claritin",
+      "class": "Histamine H1 Antagonist",
+      "indication": [
+          "Allergies"
+      ]
+  },
+  {
+      "id": 127,
+      "generic": "azelastine",
+      "brand": "Astelin",
+      "class": "Histamine H1 Antagonist",
+      "indication": [
+          "Allergies"
+      ]
+  },
+  {
+      "id": 128,
+      "generic": "montelukast",
+      "brand": "Singulair",
+      "class": "Leukotriene Receptor Antagonist",
+      "indication": [
+          "Allergies",
+          "Asthma"
+      ]
+  },
+  {
+      "id": 129,
+      "generic": "benzonatate",
+      "brand": "Tessalon Perles",
+      "class": "Antitussive",
+      "indication": [
+          "Cough"
+      ]
+  },
+  {
+      "id": 130,
+      "generic": "albuterol",
+      "brand": "Ventolin | Proair | Proventil",
+      "class": "Beta-2 Agonist",
+      "indication": [
+          "Asthma"
+      ]
+  },
+  {
+      "id": 131,
+      "generic": "albuterol + ipratropium",
+      "brand": "Combivent | DuoNeb",
+      "class": "Beta-2 Agonist + Antimuscarinic",
+      "indication": [
+          "Asthma",
+          "COPD"
+      ]
+  },
+  {
+      "id": 132,
+      "generic": "tiotropium",
+      "brand": "Spiriva",
+      "class": "Antimuscarinic",
+      "indication": [
+          "Asthma",
+          "COPD"
+      ]
+  },
+  {
+      "id": 133,
+      "generic": "fluticasone",
+      "brand": "Flonase | Flovent",
+      "class": "Corticosteroid",
+      "indication": [
+          "Allergies",
+          "Asthma"
+      ]
+  },
+  {
+      "id": 134,
+      "generic": "fluticasone + salmeterol",
+      "brand": "Advair | Wixela",
+      "class": "Corticosteroid + Beta-2 Agonist",
+      "indication": [
+          "Asthma",
+          "COPD"
+      ]
+  },
+  {
+      "id": 135,
+      "generic": "fluticasone + vilanterol",
+      "brand": "Breo Ellipta",
+      "class": "Corticosteroid + Beta-2 Agonist",
+      "indication": [
+          "Asthma",
+          "COPD"
+      ]
+  },
+  {
+      "id": 136,
+      "generic": "budesonide + formoterol",
+      "brand": "Symbicort",
+      "class": "Corticosteroid + Beta-2 Agonist",
+      "indication": [
+          "Asthma",
+          "COPD"
+      ]
+  },
+  {
+      "id": 137,
+      "generic": "metformin",
+      "brand": "Glucophage",
+      "class": "Biguanide",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 138,
+      "generic": "glipizide",
+      "brand": "Glucotrol",
+      "class": "Sulfonylurea",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 139,
+      "generic": "glimepiride",
+      "brand": "Amaryl",
+      "class": "Sulfonylurea",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 140,
+      "generic": "pioglitazone",
+      "brand": "Actos",
+      "class": "Thiazolidinedione",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 141,
+      "generic": "sitagliptin",
+      "brand": "Januvia",
+      "class": "Dipeptidyl Peptidase-4 Inhibitor (DPP-4)",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 142,
+      "generic": "empagliflozin",
+      "brand": "Jardiance",
+      "class": "Sodium-Glucose Co-Transporter 2 (SGLT2) Inhibitor",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 143,
+      "generic": "dulaglutide",
+      "brand": "Trulicity",
+      "class": "Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 144,
+      "generic": "liraglutide",
+      "brand": "Victoza | Saxenda",
+      "class": "Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist",
+      "indication": [
+          "Diabetes",
+          "Weight Loss"
+      ]
+  },
+  {
+      "id": 145,
+      "generic": "semaglutide",
+      "brand": "Ozempic | Wegovy",
+      "class": "Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist",
+      "indication": [
+          "Diabetes",
+          "Weight Loss"
+      ]
+  },
+  {
+      "id": 146,
+      "generic": "tirzepatide",
+      "brand": "Mounjaro",
+      "class": "GLP-1 Receptor Agonist & Glucose-Dependent Insulinotropic Polypeptide (GIP)",
+      "indication": [
+          "Diabetes",
+          "Weight Loss"
+      ]
+  },
+  {
+      "id": 147,
+      "generic": "insulin aspart",
+      "brand": "Novolog",
+      "class": "Insulin",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 148,
+      "generic": "insulin lispro",
+      "brand": "Humalog | Admelog",
+      "class": "Insulin",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 149,
+      "generic": "insulin detemir",
+      "brand": "Levemir",
+      "class": "Insulin",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 150,
+      "generic": "insulin glargine",
+      "brand": "Basaglar | Lantus | Semglee | Toujeo",
+      "class": "Insulin",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 151,
+      "generic": "insulin degludec",
+      "brand": "Tresiba",
+      "class": "Insulin",
+      "indication": [
+          "Diabetes"
+      ]
+  },
+  {
+      "id": 152,
+      "generic": "levothyroxine",
+      "brand": "Levoxyl | Synthroid",
+      "class": "Hormone",
+      "indication": [
+          "Hypothyroidism"
+      ]
+  },
+  {
+      "id": 153,
+      "generic": "armour thyroid",
+      "brand": "NP Thyroid",
+      "class": "Hormone",
+      "indication": [
+          "Hypothyroidism"
+      ]
+  },
+  {
+      "id": 154,
+      "generic": "estradiol",
+      "brand": "Estrace",
+      "class": "Hormone",
+      "indication": [
+          "Hormone Replacement Therapy"
+      ]
+  },
+  {
+      "id": 155,
+      "generic": "norethindrone",
+      "brand": "Heather",
+      "class": "Hormone",
+      "indication": [
+          "Hormone Replacement Therapy"
+      ]
+  },
+  {
+      "id": 156,
+      "generic": "progesterone",
+      "brand": "Prometrium",
+      "class": "Hormone",
+      "indication": [
+          "Hormone Replacement Therapy"
+      ]
+  },
+  {
+      "id": 157,
+      "generic": "ethinyl estradiol + norethindrone",
+      "brand": "Microgestin",
+      "class": "Contraceptive",
+      "indication": [
+          "Contraception"
+      ]
+  },
+  {
+      "id": 158,
+      "generic": "ethinyl estradiol + levonorgestrel",
+      "brand": "Daysee",
+      "class": "Contraceptive",
+      "indication": [
+          "Contraception"
+      ]
+  },
+  {
+      "id": 159,
+      "generic": "ethinyl estradiol + desogestrel",
+      "brand": "Viorele",
+      "class": "Contraceptive",
+      "indication": [
+          "Contraception"
+      ]
+  },
+  {
+      "id": 160,
+      "generic": "ethinyl estradiol + drospirenone",
+      "brand": "Yaz",
+      "class": "Contraceptive",
+      "indication": [
+          "Contraception"
+      ]
+  },
+  {
+      "id": 161,
+      "generic": "ethinyl estradiol + etonogestrel",
+      "brand": "NuvaRing",
+      "class": "Contraceptive",
+      "indication": [
+          "Contraception"
+      ]
+  },
+  {
+      "id": 162,
+      "generic": "testosterone (C3)",
+      "brand": "AndroGel",
+      "class": "Hormone",
+      "indication": [
+          "Hormone Replacement Therapy"
+      ]
+  },
+  {
+      "id": 163,
+      "generic": "finasteride",
+      "brand": "Proscar | Propecia",
+      "class": "5-Alpha Reductase Inhibitor",
+      "indication": [
+          "Benign Prostatic Hyperplasia",
+          "Androgenetic Alopecia"
+      ]
+  },
+  {
+      "id": 164,
+      "generic": "tamsulosin",
+      "brand": "Flomax",
+      "class": "Alpha-1 Antagonist",
+      "indication": [
+          "Benign Prostatic Hyperplasia"
+      ]
+  },
+  {
+      "id": 165,
+      "generic": "oxybutynin",
+      "brand": "Ditropan",
+      "class": "Muscarinic Antagonist",
+      "indication": [
+          "Overactive Bladder"
+      ]
+  },
+  {
+      "id": 166,
+      "generic": "mirabegron",
+      "brand": "Myrbetriq",
+      "class": "Beta-3 Agonist",
+      "indication": [
+          "Overactive Bladder"
+      ]
+  },
+  {
+      "id": 167,
+      "generic": "sildenafil",
+      "brand": "Viagra",
+      "class": "Phosphodiesterase Type 5 (PDE5) Inhibitor",
+      "indication": [
+          "Erectile Dysfunction",
+          "Pulmonary Hypertension"
+      ]
+  },
+  {
+      "id": 168,
+      "generic": "tadalafil",
+      "brand": "Cialis",
+      "class": "Phosphodiesterase Type 5 (PDE5) Inhibitor",
+      "indication": [
+          "Erectile Dysfunction",
+          "Pulmonary Hypertension"
+      ]
+  },
+  {
+      "id": 169,
+      "generic": "hydrocortisone",
+      "brand": "Cortizone",
+      "class": "Corticosteroid",
+      "indication": [
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 170,
+      "generic": "prednisone",
+      "brand": "Deltasone",
+      "class": "Corticosteroid",
+      "indication": [
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 171,
+      "generic": "prednisolone",
+      "brand": "Orapred",
+      "class": "Corticosteroid",
+      "indication": [
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 172,
+      "generic": "methylprednisolone",
+      "brand": "Medrol",
+      "class": "Corticosteroid",
+      "indication": [
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 173,
+      "generic": "triamcinolone",
+      "brand": "Kenalog",
+      "class": "Corticosteroid",
+      "indication": [
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 174,
+      "generic": "clobetasol",
+      "brand": "Temovate",
+      "class": "Corticosteroid",
+      "indication": [
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 175,
+      "generic": "ibuprofen",
+      "brand": "Advil | Motrin",
+      "class": "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+      "indication": [
+          "Pain",
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 176,
+      "generic": "naproxen",
+      "brand": "Aleve",
+      "class": "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+      "indication": [
+          "Pain",
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 177,
+      "generic": "meloxicam",
+      "brand": "Mobic",
+      "class": "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+      "indication": [
+          "Pain",
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 178,
+      "generic": "celecoxib",
+      "brand": "Celebrex",
+      "class": "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+      "indication": [
+          "Pain",
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 179,
+      "generic": "diclofenac",
+      "brand": "Voltaren",
+      "class": "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+      "indication": [
+          "Pain",
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 180,
+      "generic": "indomethacin",
+      "brand": "Indocin",
+      "class": "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+      "indication": [
+          "Pain",
+          "Inflammation"
+      ]
+  },
+  {
+      "id": 181,
+      "generic": "allopurinol",
+      "brand": "Aloprim",
+      "class": "Xanthine Oxidase Inhibitor",
+      "indication": [
+          "Gout"
+      ]
+  },
+  {
+      "id": 182,
+      "generic": "alendronate",
+      "brand": "Fosamax",
+      "class": "Bisphosphonate",
+      "indication": [
+          "Osteoporosis"
+      ]
+  },
+  {
+      "id": 183,
+      "generic": "hydroxychloroquine",
+      "brand": "Plaquenil",
+      "class": "Disease Modifying Antirheumatic Drug (DMARD)",
+      "indication": [
+          "Rheumatoid Arthritis",
+          "Lupus"
+      ]
+  },
+  {
+      "id": 184,
+      "generic": "methotrexate",
+      "brand": "Rheumatrex",
+      "class": "Disease Modifying Antirheumatic Drug (DMARD)",
+      "indication": [
+          "Rheumatoid Arthritis",
+          "Psoriasis"
+      ]
+  },
+  {
+      "id": 185,
+      "generic": "amoxicillin",
+      "brand": "Amoxil",
+      "class": "Penicillin Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 186,
+      "generic": "amoxicillin + clavulanate",
+      "brand": "Augmentin",
+      "class": "Penicillin Antibiotic + Beta Lactamase Inhibitor",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 187,
+      "generic": "cephalexin",
+      "brand": "Keflex",
+      "class": "Cephalosporin Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 188,
+      "generic": "doxycycline",
+      "brand": "Vibramycin",
+      "class": "Tetracycline Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 189,
+      "generic": "azithromycin",
+      "brand": "Zithromax",
+      "class": "Macrolide Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 190,
+      "generic": "clindamycin",
+      "brand": "Cleocin",
+      "class": "Lincosamide Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 191,
+      "generic": "ciprofloxacin",
+      "brand": "Cipro",
+      "class": "Fluoroquinolone Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 192,
+      "generic": "metronidazole",
+      "brand": "Flagyl",
+      "class": "Nitroimidazole Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 193,
+      "generic": "sulfamethoxazole + trimethoprim",
+      "brand": "Bactrim",
+      "class": "Sulfonamide + Trimethoprim Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 194,
+      "generic": "nitrofurantoin",
+      "brand": "Macrobid | Macrodantin",
+      "class": "Nitrofuran Antibiotic",
+      "indication": [
+          "Bacterial Infections"
+      ]
+  },
+  {
+      "id": 195,
+      "generic": "fluconazole",
+      "brand": "Diflucan",
+      "class": "Azole Antifungal",
+      "indication": [
+          "Fungal Infections"
+      ]
+  },
+  {
+      "id": 196,
+      "generic": "ketoconazole",
+      "brand": "Nizoral",
+      "class": "Azole Antifungal",
+      "indication": [
+          "Fungal Infections"
+      ]
+  },
+  {
+      "id": 197,
+      "generic": "acyclovir",
+      "brand": "Zovirax",
+      "class": "DNA Polymerase Inhibitor",
+      "indication": [
+          "Viral Infections"
+      ]
+  },
+  {
+      "id": 198,
+      "generic": "valacyclovir",
+      "brand": "Valtrex",
+      "class": "DNA Polymerase Inhibitor",
+      "indication": [
+          "Viral Infections"
+      ]
+  },
+  {
+      "id": 199,
+      "generic": "oseltamivir",
+      "brand": "Tamiflu",
+      "class": "Neuraminidase Inhibitor",
+      "indication": [
+          "Influenza Infection & Prophylaxis"
+      ]
+  },
+  {
+      "id": 200,
+      "generic": "nirmatrelvir + ritonavir",
+      "brand": "Paxlovid",
+      "class": "Protease Inhibitor",
+      "indication": [
+          "COVID-19 Infection"
+      ]
+  }
+]

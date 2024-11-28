@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top 200 Drugs Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Top 200 Drugs Quiz</h1>
+  <button onclick="navigateToHome()">Back to Home</button>
+  <p id="question">Question will appear here...</p>
+
+  <div class="quiz-form">
+    <label>Brand: <input type="text" id="brand"></label><br>
+    <label>Class: <input type="text" id="class"></label><br>
+    <label>Indication: <input type="text" id="indication"></label><br>
+    <button onclick="submitAnswer()">Submit</button>
+  </div>
+
+  <script src="scripts/utils.js"></script>
+  <script src="top200.js"></script>
+</body>
+</html>
