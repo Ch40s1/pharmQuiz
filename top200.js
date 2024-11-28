@@ -42,7 +42,7 @@ function submitAnswer() {
     clearInputs();
     showQuestion();
   } else {
-    alert("Incorrect. Please try again!");
+    alert(`Incorrect. Please try again! Hint:\nCheck the spelling.\nBrand: ${question.brand}\nClass: ${question.class}.\nIndication: ${question.indication.join(", ")}`);
   }
 }
 
